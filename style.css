@@ -1,0 +1,19 @@
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  display: block;
+  color: black;
+  margin-top: 50;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  margin-top: 10;
+}
+
+.sign {
+  justify-content: end;
+}
